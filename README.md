@@ -17,6 +17,8 @@ The MAS SDK includes the following plugins:
 
 * [MASFoundation](https://github.com/CAAPIM/MAS-Foundation-Cordova)
 * [MASStorage](https://github.com/CAAPIM/MAS-Storage-Cordova)
+* [MASIdentityManagement](https://github.com/CAAPIM/Cordova-MAS-IdentityManagement)
+* [MASConnecta](https://github.com/CAAPIM/Cordova-MAS-Connecta)
 
 ## How You Can Contribute
 Contributions are welcome and much appreciated. To learn more, see the [Contribution Guidelines](https://github.com/CAAPIM/Cordova-MAS-SDK/blob/develop/CONTRIBUTING.md).
