@@ -9,7 +9,7 @@ MAS SDK Plugins for Cordova are the Cordova plugin that gives simple and secure 
 *********************************************************
 
 ## Get Started
-Follow our step-by-step guide to [get started](http://www.ca.com/us/developers/mas/get-started.html).
+Check out our [documentation](https://www.ca.com/us/developers/mas/docs.html) for sample code and video tutorials.
 *********************************************************
 
 ## MAS SDK Plugins
