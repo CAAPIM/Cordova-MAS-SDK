@@ -1,8 +1,8 @@
-# Contribute to CA Mobile App Services SDK - Cordova
+# Contribute to Cordova Mobile SDK
 Contributions are welcome and much appreciated. Just follow these easy steps to contribute.
 
 ## Our Development Process
-To continue improving the SDK, the MAS development team will work on the same GitHub repos as you. The `develop branch` is used for development, and the `master branch` is used only for stable releases.
+To continue improving the SDK, the development team will work on the same GitHub repos as you. The `develop branch` is used for development, and the `master branch` is used only for stable releases.
 **Note:** For production environments, please use releases only from the master branch.
 
 ### Pull Requests
@@ -40,7 +40,7 @@ Before filing a new issue, check Known Issues to see if your problem already exi
 * Anything else that seems relevant. 
 
 ## License
-By contributing to CA Mobile App Services SDK, you agree that your contributions will be licensed under its [license][license-link].
+By contributing to Cordova Mobile SDK, you agree that your contributions will be licensed under its [license][license-link].
 
 
  [community]: https://communities.ca.com/community/ca-api-management-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bca-mobile-api-gateway%5D
