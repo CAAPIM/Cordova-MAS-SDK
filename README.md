@@ -1,19 +1,17 @@
-# MAS SDK Plugin for Cordova
-*********************************************************
-
-## for CA Mobile App Services and CA Mobile API Gateway
+# Cordova Mobile SDK
+## CA Mobile API Gateway
 **********************************************************
 
 ## Overview
-MAS SDK Plugins for Cordova are the Cordova plugin that gives simple and secure access to the services of CA Mobile API Gateway and CA Mobile App Services. For more information about our mobile products see the [website](http://www.ca.com/us/developers/mas.html).
+The Cordova Mobile SDK provides simple and secure access to the services of CA Mobile API Gateway. For more information about our mobile products see the [website](http://www.ca.com/us/developers/mas.html).
 *********************************************************
 
 ## Get Started
 Follow our step-by-step guide to [get started](http://www.ca.com/us/developers/mas/get-started.html).
 *********************************************************
 
-## MAS SDK Plugins
-The MAS SDK includes the following plugins:
+## Cordova Mobile SDK
+The Cordova Mobile SDK includes the following frameworks:
 
 * [MASFoundation](https://github.com/CAAPIM/Cordova-MAS-Foundation)
 * [MASStorage](https://github.com/CAAPIM/Cordova-MAS-Storage)
