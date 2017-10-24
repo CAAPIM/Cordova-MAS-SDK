@@ -6,7 +6,7 @@ The Cordova Mobile SDK provides a simple and secure access to the services of CA
 *********************************************************
 
 ## Get Started
-Check out our [documentation][documentation] for sample code, video tutorials, and more.  
+Check out our [documentation](https://www.ca.com/us/developers/mas/docs.html) for sample code, video tutorials, and more.  
 *********************************************************
 
 ## Cordova Mobile SDK
