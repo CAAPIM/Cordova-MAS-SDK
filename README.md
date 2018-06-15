@@ -15,7 +15,7 @@ The Cordova Mobile SDK includes the following frameworks:
 * [MASConnecta](https://github.com/CAAPIM/Cordova-MAS-Connecta)
 
 ## Sample Apps
-**All sample apps have moved to GITHub as of 1.6.00 release. Links will take to latest released versions**
+**All sample apps have moved to GITHub as of 1.6.00 release. Links will redirect to the latest released versions.**
 
 ### Android:     
 - [Sample-App-MAS-Cordova-Android-Connecta](https://github.com/CAAPIM/Sample-App-MAS-Cordova-Android-Connecta)
