@@ -1,7 +1,7 @@
 # Apache Cordova™ Mobile SDK
-## for CA Mobile API Gateway
+## for Layer7 Mobile API Gateway
 
-The Cordova Mobile SDK provides a simple and secure access to the services of CA Mobile API Gateway. For more information about our mobile products see the [developer website](http://www.ca.com/us/developers/mas.html).
+The Cordova Mobile SDK provides a simple and secure access to the services of Layer7 Mobile API Gateway. For more information about our mobile products see the [developer website](http://www.ca.com/us/developers/mas.html).
 
 ## Get Started
 Check out our [documentation](https://www.ca.com/us/developers/mas.html) for sample code, video tutorials, and more.  
@@ -36,7 +36,8 @@ Contributions are welcome and much appreciated. To learn more, see the [Contribu
 The compiled release binaries can be found here: [Releases][Releases]
 
 ## License
-Copyright (c) 2016 CA. All rights reserved.
+Copyright (c) 2019 Broadcom. All Rights Reserved.
+The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.
 
 This software may be modified and distributed under the terms of the MIT license. See the [LICENSE](https://github.com/CAAPIM/Cordova-MAS-SDK/blob/master/LICENSE) file for details.
 
