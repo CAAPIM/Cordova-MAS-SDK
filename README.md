@@ -3,7 +3,7 @@
 The Layer7 Cordova Mobile SDK provides a simple and secure access to the services of Layer7 Mobile API Gateway. For more information about our mobile products see the [developer website](http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-1.html).
 
 ## Get Started
-Check out our [documentation](http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-1.html) for sample code, video tutorials, and more.  
+Check out our [documentation](https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-1/Cordova/Cordova_2-1.html) for Guides and API refernces.  
 
 ## Cordova Mobile SDK Frameworks
 The Cordova Mobile SDK includes the following frameworks:
