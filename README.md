@@ -1,3 +1,5 @@
+:bangbang: | Please note that Cordova and Xamarin support for the SDK has been deprecated with release 2.1. The 2.1 release will be the last release with Cordova and Xamarin support. Please do not submit any new changes as they are no longer being accepted. Please contact Broadcom support [**https://support.broadcom.com/**](https://support.broadcom.com/) to report any defects or make a request for an update.
+:---: | :---
 # Layer7 Cordova Mobile SDK
 
 The Layer7 Cordova Mobile SDK provides a simple and secure access to the services of Layer7 Mobile API Gateway. For more information about our mobile products see the [developer website](http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-1.html).
